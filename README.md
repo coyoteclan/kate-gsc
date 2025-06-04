@@ -1,3 +1,5 @@
+<meta property="og:image" content="kate-gsc.png" />
+
 <p align="center"> <u>Free Palestine!</u> </p>
 
 # kate-gsc <img src="kate-gsc.png" alt="kate-gsc logo" align="right" width=256 height=256 />
