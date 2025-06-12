@@ -8,6 +8,8 @@ This repo contains info on how to configure kate for CoD GSC.
 
 ## Instructions
 
+If you're reading from GitHub, goto https://coyoteclan.github.io/kate-gsc/
+
 ### Highlighting
 
 - Click one of the Download buttons on top-right corner.
