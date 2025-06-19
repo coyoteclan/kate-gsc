@@ -32,9 +32,7 @@
       <item>int</item>
       <item>float</item>
       <item>string</item>
-      <item>vector</item>
-      <item>boolean</item>
-      <item>array</item>
+      <item>bool</item>
     </list>
 
     <list name="constants">
